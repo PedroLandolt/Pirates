@@ -1,11 +1,11 @@
-# Projeto XXXX
+# Projeto Pirates!
 ## FP/L.EIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1LEICXX
+## Pedro Landolt (up202103337)
+## 1LEIC05
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
+1. Criar um jogo plataforma moderno inpirado na jogabilidade do clássico Mario em Pygame...
 
 2. Em alternativa... do clássico x em Pygame.
 
@@ -26,9 +26,9 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---É um jogo plataforma com o objetivo de ser o mais rapido possivel a coletar e a derrotar todos os inimigos ao longo dos levels. 
+Para matar inimigos inspiramonos na jogabilidade do classico Mario, onde saltamos em cima do  inimigo para o derrotar. 
+Mal o nivel começa o scoore bord começa a diminiur, quanto mais depressa acabarmos o lvl melhor scoore ficamos. Apanhar moedas e derrotar inimigos tambem aumenta o scoore, fazendo o player escolher entre ser rapido ou apanhar tudo no mapa. Vai ter dois tipos de inimigos, o normal que anda de lado para lado e o inimigo que dispara tiros para os lados de forma constante. O level desing sera inspirado em ilhas, com palmeiras e vegetação.
 
 ### UI
 
@@ -40,9 +40,10 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 
 ### Tarefas
 
-1. carregar os níveis
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. Coletar moedas
+2. Esmagar piratas inimigos
+3. Chegar o mais rapido possivel ao fim do nivel
+4. Obter a maior scoore possivel
+3. Verificar se jogador chegou ao fim do nível
 
 - Atualizado a última vez em 15/12/2021
