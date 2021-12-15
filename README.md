@@ -37,6 +37,7 @@ Mal o nivel começa o scoore bord começa a diminiur, quanto mais depressa acaba
 ### Pacotes
 
 - Pygame
+- Sys
 
 ### Tarefas
 
