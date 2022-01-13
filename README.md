@@ -5,9 +5,7 @@
 
 ### Objetivo
 
-1. Criar um jogo plataforma moderno inpirado na jogabilidade do clássico Mario em Pygame...
-
-2. Em alternativa... do clássico x em Pygame.
+1. Criar um jogo plataforma moderno inspirado na jogabilidade do clássico Mario em Pygame.
 
 ### Repositório de código
 
@@ -26,13 +24,13 @@
 
 ### Descrição
 
-*---É um jogo plataforma com o objetivo de ser o mais rapido possivel a coletar e a derrotar todos os inimigos ao longo dos levels. 
+  É um jogo plataforma com o objetivo de ser o mais rapido possivel a coletar e a derrotar todos os inimigos ao longo dos levels. 
 Para matar inimigos inspiramonos na jogabilidade do classico Mario, onde saltamos em cima do  inimigo para o derrotar. 
-Mal o nivel começa o scoore bord começa a diminiur, quanto mais depressa acabarmos o lvl melhor scoore ficamos. Apanhar moedas e derrotar inimigos tambem aumenta o scoore, fazendo o player escolher entre ser rapido ou apanhar tudo no mapa. Vai ter dois tipos de inimigos, o normal que anda de lado para lado e o inimigo que dispara tiros para os lados de forma constante. O level desing sera inspirado em ilhas, com palmeiras e vegetação.
+O level desing sera inspirado em ilhas, com palmeiras e vegetação. O grande objetivo do jogo é derrotar os piratas inimigos que nos roubaram o chapeu e roubar o maximo de moedas possiveis.
 
-### UI
+### Level Design
 
-![UI](ui.png)
+- Utilizamos o programa Titled para facilitar a construção dos levels e importamos para o python o csv que é dado pelo programa
 
 ### Pacotes
 
@@ -43,8 +41,10 @@ Mal o nivel começa o scoore bord começa a diminiur, quanto mais depressa acaba
 
 1. Coletar moedas
 2. Esmagar piratas inimigos
-3. Chegar o mais rapido possivel ao fim do nivel
-4. Obter a maior scoore possivel
-3. Verificar se jogador chegou ao fim do nível
+3. Acrescentar animações
+4. Verificar colison boxes
+5. Criar 6 lvls
+6. Acrescentar musica
 
-- Atualizado a última vez em 15/12/2021
+
+- Atualizado a última vez em 13/01/2021
