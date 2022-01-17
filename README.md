@@ -28,9 +28,13 @@
 Para matar inimigos inspiramonos na jogabilidade do classico Mario, onde saltamos em cima do  inimigo para o derrotar. 
 O level desing sera inspirado em ilhas, com palmeiras e vegetação. O grande objetivo do jogo é derrotar os piratas inimigos que nos roubaram o chapeu e roubar o maximo de moedas possiveis.
 
+### Como abrir o jogo
+
+- Para abrir o jogo deve-se fazer download da pasta Pirates!, extrair abir a pasta code e o ficheiro main.
+
 ### Level Design
 
-- Utilizamos o programa Titled para facilitar a construção dos levels e importamos para o python o csv que é dado pelo programa
+- Utilizei o programa Titled para facilitar a construção dos levels e importamos para o python o csv que é dado pelo programa
 
 ### Pacotes
 
