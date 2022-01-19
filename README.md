@@ -7,26 +7,14 @@
 
 1. Criar um jogo plataforma moderno inspirado na jogabilidade do clássico Mario em Pygame.
 
-### Repositório de código
-
-1) Link para o repositório do GitHub: https://github.com/@PedroLandolt/pirates
-
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
-
 ### Descrição
 
   É um jogo plataforma com o objetivo de ser o mais rapido possivel a coletar e a derrotar todos os inimigos ao longo dos levels. 
 Para matar inimigos inspiramonos na jogabilidade do classico Mario, onde saltamos em cima do  inimigo para o derrotar. 
 O level desing sera inspirado em ilhas, com palmeiras e vegetação. O grande objetivo do jogo é derrotar os piratas inimigos que nos roubaram o chapeu e roubar o maximo de moedas possiveis.
+
+### UI
+
 
 ### Como abrir o jogo
 
